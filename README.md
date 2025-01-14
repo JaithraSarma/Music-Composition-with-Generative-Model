@@ -7,10 +7,9 @@ Leveraged Generative Adversarial Networks (GANs) to generate jazz music composit
 - By integrating GAN's adversarial training with hyperparameter tuning, the framework generates harmonious and aesthetically pleasing compositions, pushing the boundaries of generative music creation to inspire musicians and composers.
 
 ## Methodology 
-<div align="center">
-    <img src="WhatsApp Image 2025-01-14 at 16.11.43_0a481cb2.jpg" alt="Alt text" />
+<div style="text-align: center;">
+    <img src="GAN Framework.jpg" alt="GAN Framework">
 </div>
-
 
 - Features four generators (Fully Connected, LSTM, Transformer, and VAE) and a discriminator for adversarial training to distinguish real from generated   sequences under a GAN framework.
 - Each generator specializes in capturing different musical aspects, producing coherent sequences from random noise input.
